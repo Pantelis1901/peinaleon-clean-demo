@@ -11,3 +11,4 @@ Quick steps:
 Notes:
 - This version has NO email sending. It only answers calls, transcribes and confirms orders.
 - Don't commit .env to git.
+"# peinaleon-clean-demo" 
